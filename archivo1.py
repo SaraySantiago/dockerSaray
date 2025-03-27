@@ -194,7 +194,7 @@ def ventana_confirmacion_salir():
 
 ventana = tk.Tk()
 ventana.title("Agenda de Contactos")
-ventana.configure(bg="#FFB3B3")
+ventana.configure(bg="#FFB3B3")       
 
 fuente_etiquetas = ("Montserrat", 10, "bold")
 fuente_campos = ("Arial", 10)
